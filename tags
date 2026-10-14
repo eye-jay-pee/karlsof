@@ -628,6 +628,8 @@
 0	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	a	array:deps
 0	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.0
 0	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.1
+0	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.2
+0	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.3
 0	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	o	array:local
 0	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-a14cda74958a6d37/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	a	array:deps
 0	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-a14cda74958a6d37/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.0
@@ -793,6 +795,8 @@
 1	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	a	array:deps
 1	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	s	array:deps.0
 1	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	s	array:deps.1
+1	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	s	array:deps.2
+1	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	s	array:deps.3
 1	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-a14cda74958a6d37/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	a	array:deps
 1	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-a14cda74958a6d37/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	s	array:deps.0
 1	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-a14cda74958a6d37/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	s	array:deps.1
@@ -903,8 +907,11 @@
 2	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-16675e0a107429f1/test-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	b	array:deps.1
 2	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-16e58ea51ccb3958/test-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	b	array:deps.0
 2	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-8fcd2528644bb7e0/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	b	array:deps.0
+2	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	a	array:deps
 2	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	b	array:deps.0
 2	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	b	array:deps.1
+2	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	b	array:deps.2
+2	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	b	array:deps.3
 2	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-a14cda74958a6d37/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	b	array:deps.0
 2	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-a14cda74958a6d37/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	b	array:deps.1
 2	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-d641ee15beb9689a/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	b	array:deps.0
@@ -1005,8 +1012,11 @@
 3	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-16675e0a107429f1/test-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.1
 3	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-16e58ea51ccb3958/test-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.0
 3	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-8fcd2528644bb7e0/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.0
+3	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	a	array:deps
 3	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.0
 3	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.1
+3	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.2
+3	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-917b50f1846bd72f/doc-lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.3
 3	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-a14cda74958a6d37/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.0
 3	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-a14cda74958a6d37/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.1
 3	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/parse_table-d641ee15beb9689a/lib-parse_table.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":12413124593979174/;"	n	array:deps.0
@@ -1158,7 +1168,10 @@ All	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/enum.Trim.html	
 Alone	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/proc_macro2/enum.Spacing.html	/^<\/div><\/details><h2 id="variants" class="variants section-header">Variants<a href="#variants" /;"	j
 Always	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/enum.QuoteStyle.html	/^<\/div><\/details><h2 id="variants" class="variants section-header">Variants (Non-exhaustive)<a /;"	j
 Always	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv_core/enum.QuoteStyle.html	/^<\/div><\/details><h2 id="variants" class="variants section-header">Variants (Non-exhaustive)<a /;"	j
-Anchor	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^pub struct Anchor {$/;"	s
+Anchor	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/display.rs	/^impl Display for Anchor {$/;"	c
+Anchor	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/mod.rs	/^impl Anchor {$/;"	c
+Anchor	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/mod.rs	/^pub struct Anchor {$/;"	s
+Anchor	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^pub struct Anchor {$/;"	s
 And	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.And.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 And in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.And.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 And(AndAnd)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.BinOp.html	/^<\/div><section id="variant.And" class="variant"><a href="#variant.And" class="anchor">§<\/a><h/;"	j
@@ -2811,12 +2824,23 @@ BytesDeserializer	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde
 BytesDeserializer	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/value/struct.BytesDeserializer.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 BytesDeserializer in serde::de::value - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/de/value/struct.BytesDeserializer.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 BytesDeserializer in serde_core::de::value - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/value/struct.BytesDeserializer.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
-CLFile	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^impl CLFile {$/;"	c
-CLFile	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^pub struct CLFile {$/;"	s
-CLRecord	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^pub struct CLRecord {$/;"	s
-CLRecordKind	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/deserialize.rs	/^impl<'de> Deserialize<'de> for CLRecordKind {$/;"	c
-CLRecordKind	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^pub enum CLRecordKind {$/;"	g
-CLRecordKind	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/serialize.rs	/^impl Serialize for CLRecordKind {$/;"	c
+CLFError	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^impl From<csv::Error> for CLFError {$/;"	c
+CLFError	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^impl From<std::io::Error> for CLFError {$/;"	c
+CLFError	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^pub enum CLFError {$/;"	g
+CLFResult	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^pub type CLFResult<T> = Result<T, CLFError>;$/;"	t
+CLFile	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^impl CLFile {$/;"	c
+CLFile	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/file.rs	/^impl super::CLFile {$/;"	c
+CLFile	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/iterate.rs	/^impl IntoIterator for super::CLFile {$/;"	c
+CLFile	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^impl CLFile {$/;"	c
+CLFile	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^pub struct CLFile {$/;"	s
+CLFile	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/path.rs	/^impl super::CLFile {$/;"	c
+CLFile	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^impl super::CLFile {$/;"	c
+CLRecord	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/api.rs	/^impl super::CLRecord {$/;"	c
+CLRecord	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/mod.rs	/^pub struct CLRecord {$/;"	s
+CLRecordKind	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/mod.rs	/^impl CLRecordKind {$/;"	c
+CLRecordKind	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/mod.rs	/^pub enum CLRecordKind {$/;"	g
+CLRecordKind	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/serde/de.rs	/^impl<'de> Deserialize<'de> for super::CLRecordKind {$/;"	c
+CLRecordKind	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/serde/ser.rs	/^impl Serialize for super::CLRecordKind {$/;"	c
 CRLF	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/enum.Terminator.html	/^<\/div><\/details><h2 id="variants" class="variants section-header">Variants (Non-exhaustive)<a /;"	j
 CRLF	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv_core/enum.Terminator.html	/^<\/div><\/details><h2 id="variants" class="variants section-header">Variants (Non-exhaustive)<a /;"	j
 CStr(LitCStr)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Lit.html	/^<\/div><section id="variant.CStr" class="variant"><a href="#variant.CStr" class="anchor">§<\/a>/;"	j
@@ -2826,7 +2850,8 @@ Caret in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/
 CaretEq	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.CaretEq.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 CaretEq in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.CaretEq.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Cast(ExprCast)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Expr.html	/^<\/div><section id="variant.Cast" class="variant"><a href="#variant.Cast" class="anchor">§<\/a>/;"	j
-CenterLine	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^pub struct CenterLine {$/;"	s
+CenterLine	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/mod.rs	/^pub struct CenterLine {$/;"	s
+CenterLine	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^pub struct CenterLine {$/;"	s
 Char(LitChar)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Lit.html	/^<\/div><section id="variant.Char" class="variant"><a href="#variant.Char" class="anchor">§<\/a>/;"	j
 Char(char)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/de/enum.Unexpected.html	/^<\/div><section id="variant.Char" class="variant"><a href="#variant.Char" class="anchor">§<\/a>/;"	j
 Char(char)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/enum.Unexpected.html	/^<\/div><section id="variant.Char" class="variant"><a href="#variant.Char" class="anchor">§<\/a>/;"	j
@@ -2936,6 +2961,7 @@ Crate serde_coreCopy item path	/Users/ijp/Developer/rust_sandbox/parse_table/tar
 Crate serde_deriveCopy item path	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_derive/index.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
 Crate synCopy item path	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/index.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
 Crate unicode_identCopy item path	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/unicode_ident/index.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
+Csv	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^    Csv(csv::Error),$/;"	e	enum:CLFError
 Cursor	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/buffer/struct.Cursor.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Cursor in syn::buffer - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/buffer/struct.Cursor.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Data	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Data.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
@@ -3238,6 +3264,7 @@ Expected	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/de/trait
 Expected	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/trait.Expected.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Expected in serde::de - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/de/trait.Expected.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Expected in serde_core::de - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/trait.Expected.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+ExpectedFileNotFound	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^    ExpectedFileNotFound,$/;"	e	enum:CLFError
 Expr	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Expr.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Expr in syn - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Expr.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 ExprArray	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/struct.ExprArray.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
@@ -3733,6 +3760,7 @@ Files	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/c
 Files	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/lib.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Files	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Files	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/deserialize.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
+Files	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/error.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Files	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/mod.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Files	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/serialize.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Files	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/proc_macro2/detection.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
@@ -4915,6 +4943,7 @@ IntoDeserializer in serde::de - Rust	/Users/ijp/Developer/rust_sandbox/parse_tab
 IntoDeserializer in serde_core::de - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/trait.IntoDeserializer.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 IntoInnerError	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.IntoInnerError.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 IntoInnerError in csv - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.IntoInnerError.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+IntoIter	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/iterate.rs	/^    type IntoIter = std::vec::IntoIter<CLRecord>;$/;"	t	implementation:CLFile
 IntoIter	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/proc_macro2/token_stream/struct.IntoIter.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 IntoIter	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/punctuated/struct.IntoIter.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 IntoIter in proc_macro2::token_stream - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/proc_macro2/token_stream/struct.IntoIter.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -4922,11 +4951,13 @@ IntoIter in syn::punctuated - Rust	/Users/ijp/Developer/rust_sandbox/parse_table
 IntoPairs	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/punctuated/struct.IntoPairs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 IntoPairs in syn::punctuated - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/punctuated/struct.IntoPairs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 InvalidUtf8(Utf8Error)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/enum.DeserializeErrorKind.html	/^<\/div><section id="variant.InvalidUtf8" class="variant"><a href="#variant.InvalidUtf8" class="a/;"	j
+Io	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^    Io(std::io::Error),$/;"	e	enum:CLFError
 Io(Error)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/enum.ErrorKind.html	/^<\/div><\/details><h2 id="variants" class="variants section-header">Variants (Non-exhaustive)<a /;"	j
 IsizeDeserializer	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/de/value/struct.IsizeDeserializer.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 IsizeDeserializer	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/value/struct.IsizeDeserializer.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 IsizeDeserializer in serde::de::value - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/de/value/struct.IsizeDeserializer.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 IsizeDeserializer in serde_core::de::value - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/value/struct.IsizeDeserializer.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+Item	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/iterate.rs	/^    type Item = CLRecord;$/;"	t	implementation:CLFile
 Iter	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/punctuated/struct.Iter.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Iter in syn::punctuated - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/punctuated/struct.Iter.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 IterMut	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/punctuated/struct.IterMut.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
@@ -4952,7 +4983,7 @@ Lifetime(LifetimeParam)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc
 Lifetime(PredicateLifetime)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.WherePredicate.html	/^<\/div><\/details><h2 id="variants" class="variants section-header">Variants (Non-exhaustive)<a /;"	j
 LifetimeParam	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/struct.LifetimeParam.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 LifetimeParam in syn - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/struct.LifetimeParam.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
-LineEndPoint	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    LineEndPoint,$/;"	e	enum:CLRecordKind
+LineEndPoint	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/mod.rs	/^    LineEndPoint,$/;"	e	enum:CLRecordKind
 List of all items	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/all.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
 List of all items	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv_core/all.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
 List of all items	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/itoa/all.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
@@ -5458,11 +5489,20 @@ Plus	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.P
 Plus in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Plus.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 PlusEq	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.PlusEq.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 PlusEq in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.PlusEq.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
-Point	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^pub struct Point {$/;"	s
-PointOfCurve	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    PointOfCurve,$/;"	e	enum:CLRecordKind
-PointOfTangent	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    PointOfTangent,$/;"	e	enum:CLRecordKind
+Point	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/point/display.rs	/^impl Display for Point {$/;"	c
+Point	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/point/mod.rs	/^impl Point {$/;"	c
+Point	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/point/mod.rs	/^pub struct Point {$/;"	s
+Point	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^pub struct Point {$/;"	s
+PointID	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/default.rs	/^impl Default for super::PointID {$/;"	c
+PointID	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/from.rs	/^impl<I: Into<u16>> From<Option<I>> for super::PointID {$/;"	c
+PointID	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/mod.rs	/^pub struct PointID(Option<u16>);$/;"	s
+PointID	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/serde/de.rs	/^impl<'de> Deserialize<'de> for super::PointID {$/;"	c
+PointID	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/serde/ser.rs	/^impl Serialize for super::PointID {$/;"	c
+PointOfCurve	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/mod.rs	/^    PointOfCurve,$/;"	e	enum:CLRecordKind
+PointOfTangent	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/mod.rs	/^    PointOfTangent,$/;"	e	enum:CLRecordKind
 PointerMutability	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.PointerMutability.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 PointerMutability in syn - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.PointerMutability.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+Position	/Users/ijp/Developer/rust_sandbox/parse_table/src/position/mod.rs	/^pub trait Position {$/;"	i
 Position	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.Position.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Position in csv - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.Position.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Pound	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Pound.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
@@ -5576,7 +5616,7 @@ RArrow in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target
 REGEX_IDENT	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	C
 REGEX_INVALID_TYPE_FILTER	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	C
 ROOT_PATH	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	C
-RadiusPoint	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    RadiusPoint,$/;"	e	enum:CLRecordKind
+RadiusPoint	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/mod.rs	/^    RadiusPoint,$/;"	e	enum:CLRecordKind
 Range(ExprRange)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Expr.html	/^<\/div><section id="variant.Range" class="variant"><a href="#variant.Range" class="anchor">§<\//;"	j
 Raw	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Raw.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Raw in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Raw.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -6165,7 +6205,8 @@ Sections	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/struct.Ide
 Sections	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/index.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Sections	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/unicode_ident/index.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Seek	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/enum.ErrorKind.html	/^<\/div><\/div><\/div><section id="variant.Seek" class="variant"><a href="#variant.Seek" class="a/;"	j
-Segment	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^pub struct Segment {$/;"	s
+Segment	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/mod.rs	/^pub struct Segment {$/;"	s
+Segment	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^pub struct Segment {$/;"	s
 SelfType	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.SelfType.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 SelfType in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.SelfType.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 SelfValue	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.SelfValue.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
@@ -6268,6 +6309,9 @@ StarEq	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct
 StarEq in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.StarEq.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Static	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Static.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Static in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Static.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+Station	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/station/display.rs	/^impl Display for Station {$/;"	c
+Station	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/station/mod.rs	/^impl Station {$/;"	c
+Station	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/station/mod.rs	/^pub struct Station {$/;"	s
 StdError	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/de/trait.StdError.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 StdError	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/ser/trait.StdError.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 StdError in serde::de - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/de/trait.StdError.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -6688,7 +6732,8 @@ Sub(Minus)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Bin
 SubAssign(MinusEq)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.BinOp.html	/^<\/div><section id="variant.SubAssign" class="variant"><a href="#variant.SubAssign" class="ancho/;"	j
 Super	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Super.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Super in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Super.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
-TEST_FILE_PATH	/Users/ijp/Developer/rust_sandbox/parse_table/src/tests.rs	/^const TEST_FILE_PATH: &str = "data\/bourbon_k7_south.cl";$/;"	C
+TEST_FILE_A	/Users/ijp/Developer/rust_sandbox/parse_table/src/test/proto.rs	/^const TEST_FILE_A: &str = "data\/bb_k7_south.cl";$/;"	C
+TEST_FILE_B	/Users/ijp/Developer/rust_sandbox/parse_table/src/test/proto.rs	/^const TEST_FILE_B: &str = "data\/bb_k7_south_copy.cl";$/;"	C
 TY_FN	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	C
 TY_GENERIC	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	C
 TY_IMPORT	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	C
@@ -6710,6 +6755,7 @@ ThreeIter in memchr::arch::aarch64::neon::memchr - Rust	/Users/ijp/Developer/rus
 ThreeIter in memchr::arch::all::memchr - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/arch/all/memchr/struct.ThreeIter.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Tilde	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Tilde.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Tilde in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Tilde.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+TimestampMismatch	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^    TimestampMismatch,$/;"	e	enum:CLFError
 ToTokens	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/quote/trait.ToTokens.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 ToTokens in quote - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/quote/trait.ToTokens.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Token	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/trait.Token.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
@@ -7703,6 +7749,7 @@ Unexpected	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/d
 Unexpected in serde::de - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/de/enum.Unexpected.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Unexpected in serde_core::de - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/enum.Unexpected.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 UnexpectedEndOfRow	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/enum.DeserializeErrorKind.html	/^<\/div><section id="variant.UnexpectedEndOfRow" class="variant"><a href="#variant.UnexpectedEndO/;"	j
+UnexpectedFileFound	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^    UnexpectedFileFound,$/;"	e	enum:CLFError
 Union	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Union.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Union in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Union.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Union(DataUnion)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Data.html	/^<\/div><\/details><h2 id="variants" class="variants section-header">Variants<a href="#variants" /;"	j
@@ -7731,6 +7778,7 @@ UsizeDeserializer	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde
 UsizeDeserializer	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/value/struct.UsizeDeserializer.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 UsizeDeserializer in serde::de::value - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/de/value/struct.UsizeDeserializer.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 UsizeDeserializer in serde_core::de::value - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/value/struct.UsizeDeserializer.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+Utf8	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^    Utf8,$/;"	e	enum:CLFError
 Utf8	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/enum.ErrorKind.html	/^<\/div><section id="variant.Utf8" class="variant"><a href="#variant.Utf8" class="anchor">§<\/a>/;"	j
 Utf8Error	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.Utf8Error.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Utf8Error in csv - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.Utf8Error.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -7856,6 +7904,7 @@ WriterBuilder	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struc
 WriterBuilder	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv_core/struct.WriterBuilder.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 WriterBuilder in csv - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.WriterBuilder.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 WriterBuilder in csv_core - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv_core/struct.WriterBuilder.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+WrongExten	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^    WrongExten(String),$/;"	e	enum:CLFError
 Yield	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Yield.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 Yield in syn::token - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Yield.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 Yield(ExprYield)	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Expr.html	/^<\/div><section id="variant.Yield" class="variant"><a href="#variant.Yield" class="anchor">§<\//;"	j
@@ -7920,6 +7969,7 @@ all-types	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/index.htm
 all-types	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/unicode_ident/index.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	I
 alternatives	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/struct.Attribute.html	/^<h5 id="alternatives"><a class="doc-anchor" href="#alternatives">§<\/a>Alternatives<\/h5>$/;"	I
 amortizing-allocations	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/tutorial/index.html	/^<h3 id="amortizing-allocations"><a class="doc-anchor" href="#amortizing-allocations">§<\/a>Amor/;"	I
+anchor	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/mod.rs	/^pub mod anchor;$/;"	n
 angle-bracketed	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.PathArguments.html	/^<h3 id="angle-bracketed"><a class="doc-anchor" href="#angle-bracketed">§<\/a>Angle bracketed<\//;"	I
 anonymousFunction009bc63e0100	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/trait.impl/quote/ident_fragment/trait.IdentFragment.js	/^(function() {$/;"	f
 anonymousFunction01045e6e0100	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/trait.impl/serde_core/ser/trait.Serialize.js	/^(function() {$/;"	f
@@ -8086,6 +8136,7 @@ anonymousObjectc0bae2bc3605	/Users/ijp/Developer/rust_sandbox/parse_table/target
 anonymousObjectc0bae2bc3805	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	v
 anonymousObjectc0bae2bc3905	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	v
 anonymousObjectc4cb979c0205	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/scrape-examples-5e967b76.js	/^"use strict";(function(){const DEFAULT_MAX_LINES=5;const HIDDEN_MAX_LINES=10;function scrollToLo/;"	v
+api	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/mod.rs	/^mod api;$/;"	n
 assocOnly	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.execQuery.convertNameToId.anonymousObjectc0bae2bc0a05
 assocOnly	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:anonymousObjectc0bae2bc0805
 associatedconstant.MAX_STR_LEN	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/itoa/trait.Integer.html	/^<\/div><\/details><h2 id="required-associated-consts" class="section-header">Required Associated/;"	I
@@ -10753,12 +10804,16 @@ button[disabled] #toggle-all-docs	/Users/ijp/Developer/rust_sandbox/parse_table/
 button[disabled] #toggle-all-docs:hover	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/rustdoc-aa0817cf.css	/^		dominant-baseline="middle" fill="black">?<\/text><\/svg>');width:18px;height:18px;filter:var(-/;"	i
 byte_record.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/csv/byte_record.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 calling-a-parser-function	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/parse/struct.ParseBuffer.html	/^<h3 id="calling-a-parser-function"><a class="doc-anchor" href="#calling-a-parser-function">§<\//;"	I
-can_load	/Users/ijp/Developer/rust_sandbox/parse_table/src/tests.rs	/^fn can_load() {$/;"	f
-can_make_new_cel_file	/Users/ijp/Developer/rust_sandbox/parse_table/src/tests.rs	/^fn can_make_new_cel_file() {$/;"	f
-can_open_file	/Users/ijp/Developer/rust_sandbox/parse_table/src/tests.rs	/^fn can_open_file() {$/;"	f
-can_parse_file	/Users/ijp/Developer/rust_sandbox/parse_table/src/tests.rs	/^fn can_parse_file() {$/;"	f
-can_read_file	/Users/ijp/Developer/rust_sandbox/parse_table/src/tests.rs	/^fn can_read_file() {$/;"	f
-can_save	/Users/ijp/Developer/rust_sandbox/parse_table/src/tests.rs	/^fn can_save() {$/;"	f
+can_create_new_files	/Users/ijp/Developer/rust_sandbox/parse_table/src/test/proto.rs	/^fn can_create_new_files() {$/;"	f
+can_load_file	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/file.rs	/^    fn can_load_file() {$/;"	f	module:test
+can_open_file	/Users/ijp/Developer/rust_sandbox/parse_table/src/test/proto.rs	/^fn can_open_file() {$/;"	f
+can_parse_file_with_csv_crate	/Users/ijp/Developer/rust_sandbox/parse_table/src/test/proto.rs	/^fn can_parse_file_with_csv_crate() {$/;"	f
+can_print_anchors	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/display.rs	/^    fn can_print_anchors() {$/;"	f	module:test
+can_print_points	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/point/display.rs	/^    fn can_print_points() {$/;"	f	module:test
+can_print_stations	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/station/display.rs	/^    fn can_print_stations() {$/;"	f	module:test
+can_read_file_with_csv_crate	/Users/ijp/Developer/rust_sandbox/parse_table/src/test/proto.rs	/^fn can_read_file_with_csv_crate() {$/;"	f
+can_save_file	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/file.rs	/^    fn can_save_file() {$/;"	f	module:test
+can_set_new_path	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^    fn can_set_new_path() {$/;"	f	module:test
 cardinalities	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	method:RoaringBitmap.constructor
 case.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde_derive/internals/case.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 cb	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	function:DocSearch.buildIndex.buildFunctionSearchTypeCallback
@@ -10772,6 +10827,7 @@ checkIfInList	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.fi
 checkPath	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	method:DocSearch.execQuery
 checkType	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	method:DocSearch.execQuery
 checkTypeMgensForConflict	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	method:DocSearch.execQuery
+check_timestamp	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^    pub fn check_timestamp(&self) -> CLFResult<()> {$/;"	P	implementation:CLFile
 checksum	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/csv-7c76926f8963fc8e/lib-csv.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":69464117578822853/;"	b	object:local.0.CheckDepInfo
 checksum	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/csv-8c7d5b4da4a5a148/lib-csv.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":69464117578822853/;"	b	object:local.0.CheckDepInfo
 checksum	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/csv-core-ca36dd76af6f0683/lib-csv_core.json	/^{"rustc":9783247635632824192,"features":"[\\"default\\"]","declared_features":"[\\"default\\", \\/;"	b	object:local.0.CheckDepInfo
@@ -10811,6 +10867,7 @@ checksum	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint
 checksum	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/unicode-ident-ad010f91a36b8018/lib-unicode_ident.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":14045917370260632/;"	b	object:local.0.CheckDepInfo
 children	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	method:NameTrie.constructor
 classify.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/classify.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+clear	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn clear(&mut self) {$/;"	P	implementation:CLFile
 clearInputTimeout	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	m	property:window.searchState
 clearTooltipHoverTimeout	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f	function:anonymousFunction19c2340b0100
 clone.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/gen/clone.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -11627,6 +11684,8 @@ d2s_intrinsics.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/
 darkThemes	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/storage-68b7e25d.js	/^"use strict";const builtinThemes=["light","dark","ayu"];const darkThemes=["dark","ayu"];window.c/;"	v
 data-formats	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/index.html	/^<h3 id="data-formats"><a class="doc-anchor" href="#data-formats">§<\/a>Data formats<\/h3>$/;"	I
 data.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/data.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+de	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/serde/mod.rs	/^mod de;$/;"	n
+de	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/serde/mod.rs	/^mod de;$/;"	n
 de.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde/private/de.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 de.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde_derive/de.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 debug.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/csv/debug.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -11688,6 +11747,8 @@ declared_features	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fi
 declared_features	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/unicode-ident-ad010f91a36b8018/lib-unicode_ident.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":14045917370260632/;"	s
 decode	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	m	class:VlqHexDecoder
 decodeList	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	m	class:VlqHexDecoder
+default	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/default.rs	/^    fn default() -> Self {$/;"	P	implementation:PointID
+default	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/mod.rs	/^mod default;$/;"	n
 default	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/settings-5514c975.js	/^<\/div>`;}}return output;}function buildSettingsPage(){const theme_list=getVar("themes");const t/;"	p	variable:anonymousFunction25b8df4b0100.buildSettingsPage.anonymousObject25b8df4b0205
 default	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/settings-5514c975.js	/^<\/div>`;}}return output;}function buildSettingsPage(){const theme_list=getVar("themes");const t/;"	p	variable:anonymousFunction25b8df4b0100.buildSettingsPage.anonymousObject25b8df4b0305
 default	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/settings-5514c975.js	/^<\/div>`;}}return output;}function buildSettingsPage(){const theme_list=getVar("themes");const t/;"	p	variable:anonymousFunction25b8df4b0100.buildSettingsPage.anonymousObject25b8df4b0405
@@ -11813,10 +11874,9 @@ descShard	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/
 descShard	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildIndex.row
 descShard	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	v	method:DocSearch.buildIndex
 descShards	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	p	property:window.searchState
-deserialize	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/deserialize.rs	/^    fn deserialize<D>(deserializer: D) -> Result<Self, D::Error>$/;"	P	implementation:CLRecordKind
-deserialize	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^mod deserialize;$/;"	n
+deserialize	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/serde/de.rs	/^    fn deserialize<D>(deserializer: D) -> Result<Self, D::Error>$/;"	P	implementation:CLRecordKind
+deserialize	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/serde/de.rs	/^    fn deserialize<D>(deserializer: D) -> Result<Self, D::Error>$/;"	P	implementation:PointID
 deserialize.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/deserialize.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
-deserialize_point_number	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/deserialize.rs	/^pub fn deserialize_point_number<'de, D>($/;"	f
 deserializer.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/csv/deserializer.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 design	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/index.html	/^<h3 id="design"><a class="doc-anchor" href="#design">§<\/a>Design<\/h3>$/;"	I
 details	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
@@ -11862,13 +11922,17 @@ details:not(.toggle) summary	/Users/ijp/Developer/rust_sandbox/parse_table/targe
 detection.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/proc_macro2/detection.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 digit_table.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/ryu/digit_table.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 discouraged.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/discouraged.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+display	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/mod.rs	/^mod display;$/;"	n
+display	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/point/mod.rs	/^mod display;$/;"	n
+display	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/station/mod.rs	/^mod display;$/;"	n
 displayPath	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.execQuery.transformResults.anonymousObjectc0bae2bc0b05
 displaySettings	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/settings-5514c975.js	/^<\/div>`;}}return output;}function buildSettingsPage(){const theme_list=getVar("themes");const t/;"	f	function:anonymousFunction25b8df4b0100
 displayTypeSignature	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.execQuery.transformResults.anonymousObjectc0bae2bc0b05
 dist	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.execQuery.transformResults.anonymousObjectc0bae2bc0b05
 dist	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:anonymousObjectc0bae2bc3905
-distance	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^    distance: f64,$/;"	m	struct:Anchor
-distance	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    distance: f64,$/;"	m	struct:CLRecord
+distance	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/mod.rs	/^    pub distance: f64,$/;"	m	struct:CLRecord
+distance	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/mod.rs	/^    distance: f64,$/;"	m	struct:Anchor
+distance	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^    distance: f64,$/;"	m	struct:Anchor
 div.where	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/rustdoc-aa0817cf.css	/^		<path d="M3,5h16M3,11h16M3,17h16" stroke-width="2.75"\/><\/svg>');}:root.sans-serif{--font-fam/;"	c
 doc-comments	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/struct.Attribute.html	/^<h2 id="doc-comments"><a class="doc-anchor" href="#doc-comments">§<\/a>Doc comments<\/h2>$/;"	I
 doc.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde_core/private/doc.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -11934,11 +11998,17 @@ dyn-compatibility	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/p
 dyn-compatibility	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/parse/trait.Parser.html	/^<\/div><\/details><\/div><h2 id="dyn-compatibility" class="section-header">Dyn Compatibility<a h/;"	I
 dyn-compatibility	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/parse/trait.Peek.html	/^<\/div><\/details><h2 id="dyn-compatibility" class="section-header">Dyn Compatibility<a href="#d/;"	I
 dyn-compatibility	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/trait.Token.html	/^<\/div><\/details><h2 id="dyn-compatibility" class="section-header">Dyn Compatibility<a href="#d/;"	I
+easting	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/mod.rs	/^    pub easting: f64,$/;"	m	struct:CLRecord
+easting	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/point/mod.rs	/^    easting: f64,$/;"	m	struct:Point
+easting	/Users/ijp/Developer/rust_sandbox/parse_table/src/position/mod.rs	/^    fn easting(&self) -> Option<f64>;$/;"	P	interface:Position
 editDistance	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f
 editDistanceState	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	v
 elemContainsTarget	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/settings-5514c975.js	/^"use strict";(function(){const isSettingsPage=window.location.pathname.endsWith("\/settings.html/;"	f	function:anonymousFunction25b8df4b0100
 elemPath	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	method:DocSearch.buildIndex
-end	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^    end: Anchor,$/;"	m	struct:Segment
+elevation	/Users/ijp/Developer/rust_sandbox/parse_table/src/position/mod.rs	/^    fn elevation(&self) -> Option<f64>;$/;"	P	interface:Position
+encodes_station	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/mod.rs	/^    pub fn encodes_station(&self) -> bool {$/;"	P	implementation:CLRecordKind
+end	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/mod.rs	/^    end: Anchor,$/;"	m	struct:Segment
+end	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^    end: Anchor,$/;"	m	struct:Segment
 enum	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/sidebar-items.js	/^window.SIDEBAR_ITEMS = {"enum":["DeserializeErrorKind","ErrorKind","QuoteStyle","Terminator","Tr/;"	p	property:window.SIDEBAR_ITEMS
 enum	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv_core/sidebar-items.js	/^window.SIDEBAR_ITEMS = {"enum":["QuoteStyle","ReadFieldNoCopyResult","ReadFieldResult","ReadReco/;"	p	property:window.SIDEBAR_ITEMS
 enum	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/memmem/sidebar-items.js	/^window.SIDEBAR_ITEMS = {"enum":["Prefilter"],"fn":["find","find_iter","rfind","rfind_iter"],"str/;"	p	property:window.SIDEBAR_ITEMS
@@ -11967,10 +12037,12 @@ enums	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/ind
 enums	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/all.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	I
 enums	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/index.html	/^<code>pub(super)<\/code> or <code>pub(crate)<\/code> or <code>pub(in some::module)<\/code>.<\/dd/;"	I
 enums	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/punctuated/index.html	/^punctuation of type <code>P<\/code>.<\/strong><\/dd><\/dl><h2 id="enums" class="section-header">/;"	I
+error	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^mod error;$/;"	n
 error-handling	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.Reader.html	/^<h2 id="error-handling"><a class="doc-anchor" href="#error-handling">§<\/a>Error handling<\/h2>$/;"	I
 error-reporting-in-proc-macros	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/parse/struct.Error.html	/^<h2 id="error-reporting-in-proc-macros"><a class="doc-anchor" href="#error-reporting-in-proc-mac/;"	I
 error-reporting-in-proc-macros	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/struct.Error.html	/^<h2 id="error-reporting-in-proc-macros"><a class="doc-anchor" href="#error-reporting-in-proc-mac/;"	I
 error.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/csv/error.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+error.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/error.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 error.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/error.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 errors	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv_core/struct.Reader.html	/^<h5 id="errors"><a class="doc-anchor" href="#errors">§<\/a>Errors<\/h5>$/;"	I
 errors-1	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv_core/struct.Reader.html	/^<h5 id="errors-1"><a class="doc-anchor" href="#errors-1">§<\/a>Errors<\/h5>$/;"	I
@@ -12244,6 +12316,7 @@ exhaustive-matching	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn
 expandAllDocs	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f	function:anonymousFunction19c2340b0100
 expandSection	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f	function:anonymousFunction19c2340b0100
 expansion	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/macro.parse_macro_input.html	/^<h2 id="expansion"><a class="doc-anchor" href="#expansion">§<\/a>Expansion<\/h2>$/;"	I
+expect_a_file	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^    fn expect_a_file() {$/;"	f	module:test
 exponent.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/ryu/pretty/exponent.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 export.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/export.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 expr.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/expr.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -12483,13 +12556,20 @@ fields	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct
 fields	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.While.html	/^<\/div><\/details><h2 id="fields" class="fields section-header">Fields<a href="#fields" class="a/;"	I
 fields	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/struct.Yield.html	/^<\/div><\/details><h2 id="fields" class="fields section-header">Fields<a href="#fields" class="a/;"	I
 fieldset	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
+file	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^mod file;$/;"	n
+file	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/mod.rs	/^pub mod file;$/;"	n
 filter-by-population-count	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/tutorial/index.html	/^Reading,MA,23441,42.5255556,-71.0958333<\/code><\/pre><\/div><h3 id="filter-by-population-count"/;"	I
 filter-by-search	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/tutorial/index.html	/^<h3 id="filter-by-search"><a class="doc-anchor" href="#filter-by-search">§<\/a>Filter by search/;"	I
 find	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/memmem/fn.find.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 find in memchr::memmem - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/memmem/fn.find.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 find_iter	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/memmem/fn.find_iter.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 find_iter in memchr::memmem - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/memmem/fn.find_iter.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+first	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn first(&self) -> Option<&CLRecord> {$/;"	P	implementation:CLFile
+first_mut	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn first_mut(&mut self) -> Option<&mut CLRecord> {$/;"	P	implementation:CLFile
 fixup.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/fixup.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+fmt	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/display.rs	/^    fn fmt(&self, f: &mut Formatter<'_>) -> Result<(), Error> {$/;"	P	implementation:Anchor
+fmt	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/point/display.rs	/^    fn fmt(&self, f: &mut Formatter<'_>) -> Result<(), Error> {$/;"	P	implementation:Point
+fmt	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/station/display.rs	/^    fn fmt(&self, f: &mut Formatter<'_>) -> Result<(), Error> {$/;"	P	implementation:Station
 fmt.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde_core/ser/fmt.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 fn	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/sidebar-items.js	/^window.SIDEBAR_ITEMS = {"enum":["DeserializeErrorKind","ErrorKind","QuoteStyle","Terminator","Tr/;"	p	property:window.SIDEBAR_ITEMS
 fn	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv_core/sidebar-items.js	/^window.SIDEBAR_ITEMS = {"enum":["QuoteStyle","ReadFieldNoCopyResult","ReadFieldResult","ReadReco/;"	p	property:window.SIDEBAR_ITEMS
@@ -12548,6 +12628,10 @@ formatting	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/ryu/index.ht
 forward_to_deserialize_any in serde - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/macro.forward_to_deserialize_any.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 forward_to_deserialize_any in serde_core - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/macro.forward_to_deserialize_any.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 fragment.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde_derive/fragment.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+from	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^    fn from(src: csv::Error) -> Self {$/;"	P	implementation:CLFError
+from	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/error.rs	/^    fn from(src: std::io::Error) -> Self {$/;"	P	implementation:CLFError
+from	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/from.rs	/^    fn from(value: Option<I>) -> Self {$/;"	P	implementation:PointID
+from	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/mod.rs	/^mod from;$/;"	n
 fst	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/unicode_ident/index.html	/^<h5 id="fst"><a class="doc-anchor" href="#fst">§<\/a>fst<\/h5>$/;"	I
 fullPath	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.execQuery.transformResults.anonymousObjectc0bae2bc0b05
 fullPath	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:anonymousObjectc0bae2bc0705
@@ -12587,6 +12671,7 @@ generics	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/s
 generics	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:getItemsBefore.anonymousObjectc0bae2bc0105
 generics.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/generics.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 genericsElems	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.parseQuery.parserState
+get	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn get(&self, i: usize) -> Option<&CLRecord> {$/;"	P	implementation:CLFile
 getAlternativeDisplayElem	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f
 getCurrentValue	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/storage-68b7e25d.js	/^"use strict";const builtinThemes=["light","dark","ayu"];const darkThemes=["dark","ayu"];window.c/;"	f
 getExampleWrap	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^              brackets (e.g., <code>-&gt; [u8]<\/code> or <code>[] -&gt; Option<\/code>)`,"Look /;"	f	function:anonymousFunction19c2340b0b00
@@ -12608,6 +12693,8 @@ getStringElem	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.fi
 getVar	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/storage-68b7e25d.js	/^"use strict";const builtinThemes=["light","dark","ayu"];const darkThemes=["dark","ayu"];window.c/;"	f
 getVector	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^        <h1 class="search-results-title">Results<\/h1>${crates}<\/div>`;if(results.query.error!=/;"	m	class:ParametricDescription
 getVirtualKey	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f
+get_mut	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn get_mut(&mut self, i: usize) -> Option<&mut CLRecord> {$/;"	P	implementation:CLFile
+get_path	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/path.rs	/^    pub fn get_path(&self) -> &Path {$/;"	P	implementation:CLFile
 group.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/group.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 h1	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
 h1	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/rustdoc-aa0817cf.css	/^		<path d="M3,5h16M3,11h16M3,17h16" stroke-width="2.75"\/><\/svg>');}:root.sans-serif{--font-fam/;"	s
@@ -12687,7 +12774,7 @@ hygiene	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/quote/macro.quo
 hygiene	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/quote/macro.quote_spanned.html	/^<h2 id="hygiene"><a class="doc-anchor" href="#hygiene">§<\/a>Hygiene<\/h2>$/;"	I
 hygiene	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/fn.parse_str.html	/^<h2 id="hygiene"><a class="doc-anchor" href="#hygiene">§<\/a>Hygiene<\/h2>$/;"	I
 hygiene	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/parse/trait.Parser.html	/^<h5 id="hygiene"><a class="doc-anchor" href="#hygiene">§<\/a>Hygiene<\/h5>$/;"	I
-id	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    id: Option<u16>,$/;"	m	struct:CLRecord
+id	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/mod.rs	/^    pub id: PointID, \/\/ <- this needs to be changed to a String.$/;"	m	struct:CLRecord
 id	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildFunctionTypeFingerprint.fb
 id	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildIndex.crateRow
 id	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildIndex.row
@@ -32772,6 +32859,7 @@ inner-attributes	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/en
 innerRunQuery	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	method:DocSearch.execQuery
 input	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	p	property:window.searchState
 input	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
+insert	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn insert(&mut self, i: usize, val: CLRecord) {$/;"	P	implementation:CLFile
 insert	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	m	class:NameTrie
 insertAfter	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f
 insertSubstring	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	m	class:NameTrie
@@ -32779,6 +32867,7 @@ integer128.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/
 intended-usage	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/macro.parse_macro_input.html	/^<h2 id="intended-usage"><a class="doc-anchor" href="#intended-usage">§<\/a>Intended usage<\/h2>$/;"	I
 interpolating-text-inside-of-doc-comments	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/quote/macro.quote.html	/^<h4 id="interpolating-text-inside-of-doc-comments"><a class="doc-anchor" href="#interpolating-te/;"	I
 interpolation	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/quote/macro.quote.html	/^<h2 id="interpolation"><a class="doc-anchor" href="#interpolation">§<\/a>Interpolation<\/h2>$/;"	I
+into_iter	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/iterate.rs	/^    fn into_iter(self) -> Self::IntoIter {$/;"	P	implementation:CLFile
 invalid_option	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/fn.invalid_option.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 invalid_option in csv - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/fn.invalid_option.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 invocation	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/struct.Lifetime.html	/^<h5 id="invocation"><a class="doc-anchor" href="#invocation">§<\/a>Invocation<\/h5>$/;"	I
@@ -32795,6 +32884,7 @@ isSeparatorCharacter	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/st
 isSidebarHidden	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^              brackets (e.g., <code>-&gt; [u8]<\/code> or <code>[] -&gt; Option<\/code>)`,"Look /;"	f	function:anonymousFunction19c2340b0300
 isSpecialStartCharacter	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f
 is_alias	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildIndex.row
+is_empty	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn is_empty(&self) -> bool {$/;"	P	implementation:CLFile
 is_equal	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/arch/all/fn.is_equal.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 is_equal in memchr::arch::all - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/arch/all/fn.is_equal.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 is_equal_raw	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/arch/all/fn.is_equal_raw.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
@@ -32809,6 +32899,7 @@ is_xid_start in unicode_ident - Rust	/Users/ijp/Developer/rust_sandbox/parse_tab
 item	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.execQuery.transformResults.anonymousObjectc0bae2bc0b05
 itemTypeFromName	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	method:DocSearch.parseQuery
 itemTypes	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	v
+iterate	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^mod iterate;$/;"	n
 itoa - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/itoa/index.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 itoa/lib.rs	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/itoa/lib.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
 itoa/u128_ext.rs	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/itoa/u128_ext.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
@@ -32833,8 +32924,13 @@ js_name	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/se
 kbd	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
 kbd	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/rustdoc-aa0817cf.css	/^		<path d="m7.6121 3v16 M5.375 7.625h-2 m2 3h-2 m2 3h-2" stroke-width="1.25"\/><\/svg>');width:2/;"	s
 keys	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	method:RoaringBitmap.constructor
-kind	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    kind: CLRecordKind,$/;"	m	struct:CLRecord
+kind	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/mod.rs	/^    pub kind: CLRecordKind,$/;"	m	struct:CLRecord
+kind	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/mod.rs	/^mod kind;$/;"	n
+last	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn last(&self) -> Option<&CLRecord> {$/;"	P	implementation:CLFile
+last_mut	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn last_mut(&mut self) -> Option<&mut CLRecord> {$/;"	P	implementation:CLFile
+last_write	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^    last_write: Option<SystemTime>,$/;"	m	struct:CLFile
 legend	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
+len	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn len(&self) -> usize {$/;"	P	implementation:CLFile
 len	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildIndex.descShard
 length	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.parseQuery.parserState
 lib.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/csv/lib.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -32879,7 +32975,7 @@ limitations	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/spanned
 list	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Meta.html	/^<h3 id="list"><a class="doc-anchor" href="#list">§<\/a>List<\/h3>$/;"	I
 list-of-examples	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/cookbook/index.html	/^<h2 id="list-of-examples"><a class="doc-anchor" href="#list-of-examples">§<\/a>List of examples/;"	I
 lit.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/lit.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
-load	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    pub fn load(&mut self) -> csv::Result<()> {$/;"	P	implementation:CLFile
+load	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/file.rs	/^    pub fn load(path: impl AsRef<Path>) -> CLFResult<Self> {$/;"	P	implementation:CLFile
 loadDesc	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	m	property:window.searchState
 loadScript	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f	function:anonymousFunction19c2340b0100
 loadSearch	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f	method:window.searchState.setup
@@ -33292,6 +33388,7 @@ main-content	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_
 main-content	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/lib.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	I
 main-content	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	I
 main-content	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/deserialize.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	I
+main-content	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/error.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	I
 main-content	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/mod.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	I
 main-content	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/serialize.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	I
 main-content	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/proc_macro2/detection.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	I
@@ -46185,10 +46282,15 @@ nav.sidebar	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.file
 nav.sub	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/noscript-32bb7600.css	/^ #main-content .attributes{margin-left:0 !important;}#copy-path,#sidebar-button,.sidebar-resizer/;"	c
 nav.sub	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/rustdoc-aa0817cf.css	/^			<path d="m3 7.375h16m0-3h-4" stroke-width="1.25"\/><\/svg>');width:22px;height:22px;}.sidebar/;"	c
 nav.sub	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/rustdoc-aa0817cf.css	/^		<path d="M3,5h16M3,11h16M3,17h16" stroke-width="2.75"\/><\/svg>');}:root.sans-serif{--font-fam/;"	c
-new	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    pub fn new(path: impl AsRef<str>) -> Self {$/;"	P	implementation:CLFile
+new	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^    pub fn new(path: impl AsRef<Path>) -> CLFResult<Self> {$/;"	P	implementation:CLFile
+new	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/mod.rs	/^    pub fn new(point: Point, distance: f64) -> Self {$/;"	P	implementation:Anchor
+new	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/point/mod.rs	/^    pub fn new(northing: f64, easting: f64) -> Self {$/;"	P	implementation:Point
+new	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/station/mod.rs	/^    pub fn new(value: f64) -> Self {$/;"	P	implementation:Station
 newParsedQuery	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	method:DocSearch.parseQuery
 next	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	m	class:VlqHexDecoder
 nextTab	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f
+no_expectations	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^    fn no_expectations() {$/;"	f	module:test
+no_ts_on_files_that_dont_exist	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^    fn no_ts_on_files_that_dont_exist() {$/;"	f	module:test
 non-exhaustive-enums	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/index.html	/^<h5 id="non-exhaustive-enums"><a class="doc-anchor" href="#non-exhaustive-enums">§<\/a>Non-exha/;"	I
 non-macro-code-generators	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/quote/index.html	/^<h2 id="non-macro-code-generators"><a class="doc-anchor" href="#non-macro-code-generators">§<\//;"	I
 non-struct-containers	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.Writer.html	/^<h6 id="non-struct-containers"><a class="doc-anchor" href="#non-struct-containers">§<\/a>Non-St/;"	I
@@ -46197,6 +46299,9 @@ nonundef	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/s
 normalizedName	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildIndex.crateRow
 normalizedName	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildIndex.row
 normalizedPathLast	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:anonymousObjectc0bae2bc0705
+northing	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/mod.rs	/^    pub northing: f64,$/;"	m	struct:CLRecord
+northing	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/point/mod.rs	/^    northing: f64,$/;"	m	struct:Point
+northing	/Users/ijp/Developer/rust_sandbox/parse_table/src/position/mod.rs	/^    fn northing(&self) -> Option<f64>;$/;"	P	interface:Position
 notable-traits-data	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.ByteRecord.html	/^    U: <a class="trait" href="https:\/\/doc.rust-lang.org\/1.90.0\/core\/convert\/trait.TryFrom./;"	I
 notable-traits-data	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.ByteRecordIter.html	/^    U: <a class="trait" href="https:\/\/doc.rust-lang.org\/1.90.0\/core\/convert\/trait.TryFrom./;"	I
 notable-traits-data	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.Reader.html	/^    U: <a class="trait" href="https:\/\/doc.rust-lang.org\/1.90.0\/core\/convert\/trait.TryFrom./;"	I
@@ -46234,9 +46339,11 @@ notable-traits-data	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/ser
 notable-traits-data	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.Fields.html	/^    U: <a class="trait" href="https:\/\/doc.rust-lang.org\/1.90.0\/core\/convert\/trait.TryFrom./;"	I
 notable-traits-data	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/punctuated/struct.Punctuated.html	/^    U: <a class="trait" href="https:\/\/doc.rust-lang.org\/1.90.0\/core\/convert\/trait.TryFrom./;"	I
 notable-traits-data	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/struct.LitByteStr.html	/^    U: <a class="trait" href="https:\/\/doc.rust-lang.org\/1.90.0\/core\/convert\/trait.TryFrom./;"	I
+notices_file_missing	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^    fn notices_file_missing() {$/;"	f	module:test
 ns3791d5dd0101	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/rust-logo-9a9549ea.svg	/^<svg version="1.1" height="106" width="106" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="/;"	n	uri:http://www.w3.org/2000/svg
 nsf47289580101	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/favicon-044be391.svg	/^<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-\/\/W3C\/\/DTD SVG /;"	n	uri:http://www.w3.org/2000/svg
-number	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^    number: Option<u16>,$/;"	m	struct:Point
+number	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/station/mod.rs	/^    pub fn number(&self) -> i32 {$/;"	P	implementation:Station
+number	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^    number: Option<u16>,$/;"	m	struct:Point
 offsetIncrs0	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^        <h1 class="search-results-title">Results<\/h1>${crates}<\/div>`;if(results.query.error!=/;"	m	class:Lev1TParametricDescription
 offsetIncrs0	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^        <h1 class="search-results-title">Results<\/h1>${crates}<\/div>`;if(results.query.error!=/;"	m	class:Lev2TParametricDescription
 offsetIncrs1	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^        <h1 class="search-results-title">Results<\/h1>${crates}<\/div>`;if(results.query.error!=/;"	m	class:Lev1TParametricDescription
@@ -46324,7 +46431,6 @@ parent	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/sea
 parenthesized	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.PathArguments.html	/^<h3 id="parenthesized"><a class="doc-anchor" href="#parenthesized">§<\/a>Parenthesized<\/h3>$/;"	I
 parenthesized	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/macro.parenthesized.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 parenthesized in syn - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/macro.parenthesized.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
-parse	/Users/ijp/Developer/rust_sandbox/parse_table/src/lib.rs	/^mod parse;$/;"	n
 parse in syn - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/fn.parse.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 parse.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 parse.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/proc_macro2/parse.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -46347,6 +46453,7 @@ parse_table/centerline.rs	/Users/ijp/Developer/rust_sandbox/parse_table/target/d
 parse_table/lib.rs	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/lib.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
 parse_table/parse.rs	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
 parse_table/parse/deserialize.rs	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/deserialize.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
+parse_table/parse/error.rs	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/error.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
 parse_table/parse/mod.rs	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/mod.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
 parse_table/parse/serialize.rs	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/serialize.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	h
 parse_table0.1.0	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/parse_table/all.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
@@ -46360,6 +46467,8 @@ parsing	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/index
 parsing-a-custom-syntax	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/index.html	/^<h2 id="parsing-a-custom-syntax"><a class="doc-anchor" href="#parsing-a-custom-syntax">§<\/a>Pa/;"	I
 parsing-from-attribute-to-structured-arguments	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/struct.Attribute.html	/^<h2 id="parsing-from-attribute-to-structured-arguments"><a class="doc-anchor" href="#parsing-fro/;"	I
 parsing-from-tokens-to-attribute	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/struct.Attribute.html	/^<h2 id="parsing-from-tokens-to-attribute"><a class="doc-anchor" href="#parsing-from-tokens-to-at/;"	I
+path	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^    path: PathBuf,$/;"	m	struct:CLFile
+path	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^mod path;$/;"	n
 path	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/csv-7c76926f8963fc8e/lib-csv.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":69464117578822853/;"	n
 path	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/csv-8c7d5b4da4a5a148/lib-csv.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":69464117578822853/;"	n
 path	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/csv-core-c3e904c0fa8500a6/doc-lib-csv_core.json	/^{"rustc":9783247635632824192,"features":"[\\"default\\"]","declared_features":"[\\"default\\", \\/;"	n
@@ -46427,7 +46536,6 @@ pathSplitter	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.fil
 pathWithoutLast	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:anonymousObjectc0bae2bc0705
 path_dist	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.execQuery.transformResults.anonymousObjectc0bae2bc0b05
 path_dist	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:anonymousObjectc0bae2bc3905
-pathbuf	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    pathbuf: PathBuf,$/;"	m	struct:CLFile
 paths	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/proc-macro2-c0585bc7c6678465/run-build-script-build-script-build.json	/^{"rustc":9783247635632824192,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	a	object:local.0.RerunIfChanged
 paths	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/quote-d5f0b40595a2875b/run-build-script-build-script-build.json	/^{"rustc":9783247635632824192,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	a	object:local.0.RerunIfChanged
 paths	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/serde-9f062cf4140a3112/run-build-script-build-script-build.json	/^{"rustc":9783247635632824192,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	a	object:local.0.RerunIfChanged
@@ -46440,8 +46548,14 @@ performance	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/ryu/index.h
 performance	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/parse/discouraged/trait.Speculative.html	/^<h5 id="performance"><a class="doc-anchor" href="#performance">§<\/a>Performance<\/h5>$/;"	I
 performance	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/parse/struct.ParseBuffer.html	/^<h5 id="performance"><a class="doc-anchor" href="#performance">§<\/a>Performance<\/h5>$/;"	I
 pipelining	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/tutorial/index.html	/^<h2 id="pipelining"><a class="doc-anchor" href="#pipelining">§<\/a>Pipelining<\/h2>$/;"	I
-point	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^    point: Point,$/;"	m	struct:Anchor
+plus	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/station/mod.rs	/^    pub fn plus(&self) -> f64 {$/;"	P	implementation:Station
+point	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/mod.rs	/^    point: Point,$/;"	m	struct:Anchor
+point	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/mod.rs	/^pub mod point;$/;"	n
+point	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^    point: Point,$/;"	m	struct:Anchor
+point_num	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/mod.rs	/^mod point_num;$/;"	n
+pop	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn pop(&mut self) -> Option<CLRecord> {$/;"	P	implementation:CLFile
 pos	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.parseQuery.parserState
+position	/Users/ijp/Developer/rust_sandbox/parse_table/src/lib.rs	/^mod position;$/;"	n
 pre	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
 pre	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/rustdoc-aa0817cf.css	/^		<path d="M3,5h16M3,11h16M3,17h16" stroke-width="2.75"\/><\/svg>');}:root.sans-serif{--font-fam/;"	s
 pre.item-decl	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/rustdoc-aa0817cf.css	/^		<path d="M3,5h16M3,11h16M3,17h16" stroke-width="2.75"\/><\/svg>');}:root.sans-serif{--font-fam/;"	c
@@ -46562,6 +46676,7 @@ profile	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/
 profile	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/unicode-ident-ad010f91a36b8018/lib-unicode_ident.json	/^{"rustc":9783247635632824192,"features":"[]","declared_features":"[]","target":14045917370260632/;"	n
 progress	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
 promise	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildIndex.descShard
+proto	/Users/ijp/Developer/rust_sandbox/parse_table/src/test/mod.rs	/^mod proto;$/;"	n
 provided-associated-consts	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/ext/trait.IdentExt.html	/^<\/div><\/details><h2 id="provided-associated-consts" class="section-header">Provided Associated/;"	I
 provided-methods	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/quote/trait.IdentFragment.html	/^<\/div><\/details><\/div><h2 id="provided-methods" class="section-header">Provided Methods<a hre/;"	I
 provided-methods	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/quote/trait.ToTokens.html	/^<\/div><\/details><\/div><h2 id="provided-methods" class="section-header">Provided Methods<a hre/;"	I
@@ -46595,6 +46710,7 @@ provided-methods	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_
 provided-methods	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/trait.Serializer.html	/^<\/div><\/details><\/div><h2 id="provided-methods" class="section-header">Provided Methods<a hre/;"	I
 provided-methods	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/parse/trait.Parser.html	/^<\/div><\/details><\/div><h2 id="provided-methods" class="section-header">Provided Methods<a hre/;"	I
 punctuated.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/punctuated.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+push	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn push(&mut self, record: CLRecord) {$/;"	P	implementation:CLFile
 pushFunc	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	function:DocSearch.execQuery.handleAliases
 pushText	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	function:DocSearch.execQuery.formatDisplayTypeSignature
 putBackSearch	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^        <h1 class="search-results-title">Results<\/h1>${crates}<\/div>`;if(results.query.error!=/;"	f
@@ -46621,7 +46737,8 @@ quote_spanned	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/quote/mac
 quote_spanned in quote - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/quote/macro.quote_spanned.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 r	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/rust-logo-9a9549ea.svg	/^    V -15 H -25 V 11 H -40 Z" \/>$/;"	i
 rabinkarp.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/memchr/arch/all/rabinkarp.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
-radius	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^    radius: Option<Anchor>,$/;"	m	struct:Segment
+radius	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/mod.rs	/^    radius: Option<Point>,$/;"	m	struct:Segment
+radius	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^    radius: Option<Anchor>,$/;"	m	struct:Segment
 rawSearchIndex	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	v
 rcvec.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/proc_macro2/rcvec.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 reader.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/csv/reader.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -46634,7 +46751,8 @@ reading-with-serde	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/
 reading-with-serde	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/tutorial/index.html	/^<h3 id="reading-with-serde"><a class="doc-anchor" href="#reading-with-serde">§<\/a>Reading with/;"	I
 reading-without-headers	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/cookbook/index.html	/^<h2 id="reading-without-headers"><a class="doc-anchor" href="#reading-without-headers">§<\/a>Re/;"	I
 receiver.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde_derive/internals/receiver.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
-records	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    records: Vec<CLRecord>,$/;"	m	struct:CLFile
+record	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^pub mod record;$/;"	n
+records	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^    records: Vec<CLRecord>,$/;"	m	struct:CLFile
 reexport.StdError	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/index.html	/^<\/div><\/details><h2 id="reexports" class="section-header">Re-exports<a href="#reexports" class/;"	I
 reexport.StdError	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/ser/index.html	/^<\/div><\/details><h2 id="reexports" class="section-header">Re-exports<a href="#reexports" class/;"	I
 reexport.TokenStream	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/proc_macro2/token_stream/index.html	/^<\/div><\/details><h2 id="reexports" class="section-header">Re-exports<a href="#reexports" class/;"	I
@@ -46645,6 +46763,7 @@ registerSearchEvents	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/st
 register_implementors	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f	variable:window
 register_type_impls	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f	variable:window
 remapQuery	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	function:DocSearch.execQuery.formatDisplayTypeSignature
+remove	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn remove(&mut self, i: usize) -> CLRecord {$/;"	P	implementation:CLFile
 removeClass	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/storage-68b7e25d.js	/^"use strict";const builtinThemes=["light","dark","ayu"];const darkThemes=["dark","ayu"];window.c/;"	f
 removeQueryParameters	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	m	property:window.searchState
 required-associated-consts	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/itoa/trait.Integer.html	/^<\/div><\/details><h2 id="required-associated-consts" class="section-header">Required Associated/;"	I
@@ -48036,7 +48155,7 @@ safety-2	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/arch/aa
 safety-2	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/arch/all/memchr/struct.One.html	/^<h5 id="safety-2"><a class="doc-anchor" href="#safety-2">§<\/a>Safety<\/h5>$/;"	I
 safety-3	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/arch/aarch64/neon/memchr/struct.One.html	/^<h5 id="safety-3"><a class="doc-anchor" href="#safety-3">§<\/a>Safety<\/h5>$/;"	I
 samp	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
-save	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    pub fn save(&self) -> csv::Result<()> {$/;"	P	implementation:CLFile
+save	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/file.rs	/^    pub fn save(&mut self) -> CLFResult<()> {$/;"	P	implementation:CLFile
 scalars	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/struct.Writer.html	/^<h6 id="scalars"><a class="doc-anchor" href="#scalars">§<\/a>Scalars<\/h6>$/;"	I
 scan_expr.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/scan_expr.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 scrollToLoc	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/scrape-examples-5e967b76.js	/^"use strict";(function(){const DEFAULT_MAX_LINES=5;const HIDDEN_MAX_LINES=10;function scrollToLo/;"	f	function:anonymousFunctionc4cb979c0100
@@ -48051,11 +48170,17 @@ searchSubstringPrefix	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/s
 searcher.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/memchr/memmem/searcher.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 see-also	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/parse/struct.ParseBuffer.html	/^<h5 id="see-also"><a class="doc-anchor" href="#see-also">§<\/a>See also<\/h5>$/;"	I
 seed.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde_core/private/seed.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
-segments	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^    segments: Vec<Segment>,$/;"	m	struct:CenterLine
+segment	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/mod.rs	/^pub mod segment;$/;"	n
+segments	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/mod.rs	/^    segments: Vec<Segment>,$/;"	m	struct:CenterLine
+segments	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^    segments: Vec<Segment>,$/;"	m	struct:CenterLine
 select	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
 sendSearchForm	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f	method:window.searchState.setup
+ser	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/serde/mod.rs	/^mod ser;$/;"	n
+ser	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/serde/mod.rs	/^mod ser;$/;"	n
 ser.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde/private/ser.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 ser.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde_derive/ser.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+serde	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/mod.rs	/^mod serde;$/;"	n
+serde	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/mod.rs	/^mod serde;$/;"	n
 serde	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/index.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	I
 serde - Rust	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/index.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 serde-and-zero-allocation	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/tutorial/index.html	/^<h3 id="serde-and-zero-allocation"><a class="doc-anchor" href="#serde-and-zero-allocation">§<\//;"	I
@@ -48256,10 +48381,9 @@ serde_derive1.0.229	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/ser
 serde_derive1.0.229	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_derive/derive.Deserialize.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 serde_derive1.0.229	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_derive/derive.Serialize.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
 serde_derive1.0.229	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_derive/index.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	i
-serialize	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^mod serialize;$/;"	n
-serialize	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/serialize.rs	/^    fn serialize<S>(&self, serializer: S) -> Result<S::Ok, S::Error>$/;"	P	implementation:CLRecordKind
+serialize	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/kind/serde/ser.rs	/^    fn serialize<S>(&self, serializer: S) -> Result<S::Ok, S::Error>$/;"	P	implementation:CLRecordKind
+serialize	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/point_num/serde/ser.rs	/^    fn serialize<S>(&self, serializer: S) -> Result<S::Ok, S::Error>$/;"	P	implementation:PointID
 serialize.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/parse_table/parse/serialize.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
-serialize_point_number	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/serialize.rs	/^pub fn serialize_point_number<S>($/;"	f
 serializer.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/csv/serializer.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 serif	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/favicon-044be391.svg	/^<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-\/\/W3C\/\/DTD SVG /;"	n	uri:http://www.serif.com/
 setEvents	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/settings-5514c975.js	/^"use strict";(function(){const isSettingsPage=window.location.pathname.endsWith("\/settings.html/;"	f	function:anonymousFunction25b8df4b0100
@@ -48268,6 +48392,8 @@ setLoadingSearch	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static
 setMobileTopbar	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f
 setTooltipHoverTimeout	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	f	function:anonymousFunction19c2340b0100
 set_fragment	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/src-script-813739b1.js	/^"use strict";(function(){const rootPath=getVar("root-path");const NAME_OFFSET=0;const DIRS_OFFSE/;"	f	function:anonymousFunction6209557f0100.handleSrcHighlight
+set_path	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/path.rs	/^    pub fn set_path(&mut self, path: impl AsRef<Path>) -> CLFResult<()> {$/;"	P	implementation:CLFile
+set_timestamp	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^    pub fn set_timestamp(&mut self) -> CLFResult<()> {$/;"	P	implementation:CLFile
 settingsBlurHandler	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/settings-5514c975.js	/^<\/div>`;}}return output;}function buildSettingsPage(){const theme_list=getVar("themes");const t/;"	f	function:anonymousFunction25b8df4b0100
 settingsDataset	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/storage-68b7e25d.js	/^"use strict";const builtinThemes=["light","dark","ayu"];const darkThemes=["dark","ayu"];window.c/;"	f
 setup	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/index.html	/^<h2 id="setup"><a class="doc-anchor" href="#setup">§<\/a>Setup<\/h2>$/;"	I
@@ -48287,6 +48413,7 @@ showTooltip	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.file
 size_hint.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde_core/private/size_hint.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 skipWhitespace	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f
 small	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
+some_ts_on_files_that_exist	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^    fn some_ts_on_files_that_exist() {$/;"	f	module:test
 sortFunc	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	function:DocSearch.execQuery.handleAliases
 sortQ	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	function:DocSearch.execQuery.innerRunQuery
 sortResults	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	method:DocSearch.execQuery
@@ -48320,8 +48447,11 @@ special-cases	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/ryu/struc
 special-cases	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/macro.parse_quote.html	/^<h2 id="special-cases"><a class="doc-anchor" href="#special-cases">§<\/a>Special cases<\/h2>$/;"	I
 special-cases-1	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/ryu/struct.Buffer.html	/^<h5 id="special-cases-1"><a class="doc-anchor" href="#special-cases-1">§<\/a>Special cases<\/h5/;"	I
 splice	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	m	class:Array
-start	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^    start: Anchor,$/;"	m	struct:Segment
+start	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/mod.rs	/^    start: Anchor,$/;"	m	struct:Segment
+start	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^    start: Anchor,$/;"	m	struct:Segment
 start	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildIndex.descShard
+station	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/record/api.rs	/^    pub fn station(&self) -> Option<f64> {$/;"	P	implementation:CLRecord
+station	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/mod.rs	/^pub mod station;$/;"	n
 status	/Users/ijp/Developer/rust_sandbox/parse_table/target/.rustc_info.json	/^{"rustc_fingerprint":17442334981487119402,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.17747080675513052775
 status	/Users/ijp/Developer/rust_sandbox/parse_table/target/.rustc_info.json	/^{"rustc_fingerprint":17442334981487119402,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.7971740275564407648
 stderr	/Users/ijp/Developer/rust_sandbox/parse_table/target/.rustc_info.json	/^{"rustc_fingerprint":17442334981487119402,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.17747080675513052775
@@ -49936,8 +50066,13 @@ target	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/u
 template	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
 termination	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv_core/struct.Reader.html	/^<h5 id="termination"><a class="doc-anchor" href="#termination">§<\/a>Termination<\/h5>$/;"	I
 termination-1	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv_core/struct.Reader.html	/^<h5 id="termination-1"><a class="doc-anchor" href="#termination-1">§<\/a>Termination<\/h5>$/;"	I
+test	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/file.rs	/^mod test {$/;"	n
+test	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^mod test {$/;"	n
+test	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/display.rs	/^mod test {$/;"	n
+test	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/point/display.rs	/^mod test {$/;"	n
+test	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/station/display.rs	/^mod test {$/;"	n
+test	/Users/ijp/Developer/rust_sandbox/parse_table/src/lib.rs	/^mod test;$/;"	n
 testing	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/index.html	/^<h2 id="testing"><a class="doc-anchor" href="#testing">§<\/a>Testing<\/h2>$/;"	I
-tests	/Users/ijp/Developer/rust_sandbox/parse_table/src/lib.rs	/^mod tests;$/;"	n
 textarea	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/normalize-9960930a.css	/^html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-siz/;"	s
 the-deserialize-trait	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde/de/index.html	/^<h2 id="the-deserialize-trait"><a class="doc-anchor" href="#the-deserialize-trait">§<\/a>The De/;"	I
 the-deserialize-trait	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/serde_core/de/index.html	/^<h2 id="the-deserialize-trait"><a class="doc-anchor" href="#the-deserialize-trait">§<\/a>The De/;"	I
@@ -49953,6 +50088,9 @@ this.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/se
 thread-safety	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/proc_macro2/index.html	/^<h2 id="thread-safety"><a class="doc-anchor" href="#thread-safety">§<\/a>Thread-Safety<\/h2>$/;"	I
 thread.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/thread.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 timeout	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	p	property:window.searchState
+timestamp	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/mod.rs	/^mod timestamp;$/;"	n
+timestamp_actual	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^    fn timestamp_actual(&self) -> Option<SystemTime> {$/;"	P	implementation:CLFile
+timestamp_expected	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/timestamp.rs	/^    fn timestamp_expected(&self) -> Option<SystemTime> {$/;"	P	implementation:CLFile
 title	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	p	property:window.searchState
 titleBeforeSearch	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	p	property:window.searchState
 toSpliced	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	m	class:Array
@@ -50787,6 +50925,7 @@ traits	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/index.
 transformResults	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	f	method:DocSearch.execQuery
 transition	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^        <h1 class="search-results-title">Results<\/h1>${crates}<\/div>`;if(results.query.error!=/;"	m	class:Lev1TParametricDescription
 transition	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^        <h1 class="search-results-title">Results<\/h1>${crates}<\/div>`;if(results.query.error!=/;"	m	class:Lev2TParametricDescription
+truncate	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/api.rs	/^    pub fn truncate(&mut self, n: usize) {$/;"	P	implementation:CLFile
 tuple.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde_derive/de/tuple.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 tutorial.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/csv/tutorial.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 twoway.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/memchr/arch/all/twoway.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -51168,6 +51307,7 @@ usage	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/macro.custom_
 usage-with-parser	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/macro.parse_macro_input.html	/^<h2 id="usage-with-parser"><a class="doc-anchor" href="#usage-with-parser">§<\/a>Usage with Par/;"	I
 userQuery	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.parseQuery.parserState
 val	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/proc-macro2-c0585bc7c6678465/run-build-script-build-script-build.json	/^{"rustc":9783247635632824192,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	z	object:local.1.RerunIfEnvChanged
+value	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/segment/anchor/station/mod.rs	/^    value: f64,$/;"	m	struct:Station
 value.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/serde_core/de/value.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 var	/Users/ijp/Developer/rust_sandbox/parse_table/target/debug/.fingerprint/proc-macro2-c0585bc7c6678465/run-build-script-build-script-build.json	/^{"rustc":9783247635632824192,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	s	object:local.1.RerunIfEnvChanged
 variant.Add	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.BinOp.html	/^<\/div><\/details><h2 id="variants" class="variants section-header">Variants (Non-exhaustive)<a /;"	I
@@ -51466,6 +51606,7 @@ variants	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/type.Resul
 vector.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/memchr/vector.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
 verbatim-variants	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/index.html	/^<h5 id="verbatim-variants"><a class="doc-anchor" href="#verbatim-variants">§<\/a>Verbatim varia/;"	I
 verbatim.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/syn/verbatim.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
+verified_path_buf	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/path.rs	/^    pub fn verified_path_buf(path: impl AsRef<Path>) -> CLFResult<PathBuf> {$/;"	P	implementation:CLFile
 why-use-this-crate	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/memchr/index.html	/^<h2 id="why-use-this-crate"><a class="doc-anchor" href="#why-use-this-crate">§<\/a>Why use this/;"	I
 window.ALL_CRATES	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/crates.js	/^window.ALL_CRATES = ["csv","csv_core","itoa","memchr","parse_table","proc_macro2","quote","ryu",/;"	p
 window.SIDEBAR_ITEMS	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/sidebar-items.js	/^window.SIDEBAR_ITEMS = {"enum":["DeserializeErrorKind","ErrorKind","QuoteStyle","Terminator","Tr/;"	p
@@ -51509,6 +51650,7 @@ window.SIDEBAR_ITEMS	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/sy
 window.SIDEBAR_ITEMS	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/token/sidebar-items.js	/^window.SIDEBAR_ITEMS = {"struct":["Abstract","And","AndAnd","AndEq","As","Async","At","Auto","Aw/;"	p
 window.SIDEBAR_ITEMS	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/unicode_ident/sidebar-items.js	/^window.SIDEBAR_ITEMS = {"constant":["UNICODE_VERSION"],"fn":["is_xid_continue","is_xid_start"]};/;"	p
 window.searchState	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/main-eebb9057.js	/^"use strict";window.RUSTDOC_TOOLTIP_HOVER_MS=300;window.RUSTDOC_TOOLTIP_HOVER_EXIT_MS=450;functi/;"	p
+with_path	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline/file/path.rs	/^    pub fn with_path(mut self, path: impl AsRef<Path>) -> CLFResult<Self> {$/;"	P	implementation:CLFile
 word	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildIndex.crateRow
 word	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/search-fa3e91e5.js	/^"use strict";if(!Array.prototype.toSpliced){Array.prototype.toSpliced=function(){const me=this.s/;"	p	variable:DocSearch.buildIndex.row
 wrapper.rs - source	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/src/proc_macro2/wrapper.rs.html	/^<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=/;"	j
@@ -51522,12 +51664,10 @@ writing-csv	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/tutoria
 writing-tab-separated-values	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/tutorial/index.html	/^<h3 id="writing-tab-separated-values"><a class="doc-anchor" href="#writing-tab-separated-values"/;"	I
 writing-with-serde	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/cookbook/index.html	/^<h2 id="writing-with-serde"><a class="doc-anchor" href="#writing-with-serde">§<\/a>Writing: wit/;"	I
 writing-with-serde	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/tutorial/index.html	/^<h3 id="writing-with-serde"><a class="doc-anchor" href="#writing-with-serde">§<\/a>Writing with/;"	I
-x	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^    x: f64,$/;"	m	struct:Point
-x	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    x: f64,$/;"	m	struct:CLRecord
+x	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^    x: f64,$/;"	m	struct:Point
 xlink	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/favicon-044be391.svg	/^<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-\/\/W3C\/\/DTD SVG /;"	n	uri:http://www.w3.org/1999/xlink
 xlink	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/static.files/rust-logo-9a9549ea.svg	/^<svg version="1.1" height="106" width="106" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="/;"	n	uri:http://www.w3.org/1999/xlink
-y	/Users/ijp/Developer/rust_sandbox/parse_table/src/centerline.rs	/^    y: f64,$/;"	m	struct:Point
-y	/Users/ijp/Developer/rust_sandbox/parse_table/src/parse/mod.rs	/^    y: f64,$/;"	m	struct:CLRecord
+y	/Users/ijp/Developer/rust_sandbox/parse_table/src/mod.rs	/^    y: f64,$/;"	m	struct:Point
 §Amortizing allocations	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/tutorial/index.html	/^<h3 id="amortizing-allocations"><a class="doc-anchor" href="#amortizing-allocations">§<\/a>Amor/;"	j
 §Angle bracketed	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/syn/enum.PathArguments.html	/^<h3 id="angle-bracketed"><a class="doc-anchor" href="#angle-bracketed">§<\/a>Angle bracketed<\//;"	j
 §Basic error handling	/Users/ijp/Developer/rust_sandbox/parse_table/target/doc/csv/tutorial/index.html	/^# ... and much more<\/code><\/pre><\/div><h2 id="basic-error-handling"><a class="doc-anchor" hre/;"	i
